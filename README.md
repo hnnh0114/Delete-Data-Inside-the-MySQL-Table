@@ -1,0 +1,1 @@
+# Delete-Data-Inside-the-MySQL-Table
